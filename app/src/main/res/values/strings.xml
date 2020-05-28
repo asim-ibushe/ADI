@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ADI</string>
+    <string name="plate_9">9 PLT</string>
+    <string name="plate_10">10 PLT</string>
+    <string name="plate_11">11 PLT</string>
+    <string name="plate_13">13 PLT</string>
+    <string name="plate_17">17 PLT</string>
+    <string name="plate_19">19 PLT</string>
+    <string name="plate_21">21 PLT</string>
+    <string name="plate_23">23 PLT</string>
+    <string name="it120">IT 120</string>
+    <string name="it165">IT 165</string>
+    <string name="it220">IT 220</string>
+    <string name="sp15000">SP1500</string>
+    <string name="sp18000">SP1800</string>
+    <string name="sp22000">SP2200</string>
+    <string name="plus_symbol">+</string>
+    <string name="mult_symbol">x</string>
+    <string name="clear">C</string>
+    <string name="bracket">( )</string>
+    <string name="equal"> = </string>
+    <string name="adi_power_system">ADi Power System</string>
+</resources>
